@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Primary colors-->
+    <color name="primary1">#1c69d4</color>
+    <color name="primary1_04">#661c69d4</color>
+    <color name="primary2">#e4eefb</color>
+
+    <!--Black colors-->
+    <color name="black1">#071934</color>
+    <color name="black2">#798391</color>
+    <color name="black_6">#0f000000</color>
+    <color name="black_32">#51000000</color>
+    <color name="black_87">#de000000</color>
+    <color name="black_54">#8a000000</color>
+    <color name="black_12">#1e000000</color>
+
+    <!--White colors-->
+    <color name="white_6">#0fffffff</color>
+    <color name="white_32">#51ffffff</color>
+    <color name="white_12">#1effffff</color>
+    <color name="white_54">#8affffff</color>
+    <color name="white_tab">#b3ffffff</color>
+    <color name="white">#ffffff</color>
+
+    <!--Special colors-->
+    <color name="gray_light">#f3f5f9</color>
+
+    <color name="transparent">#deffffff</color>
+</resources>
